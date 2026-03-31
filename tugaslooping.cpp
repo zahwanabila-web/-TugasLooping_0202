@@ -72,3 +72,7 @@ void hasilFibonacci() {
          cout << angka << " bukan bilangan Fibonacci.\n";
     }
 }
+
+int main() {
+    
+}
