@@ -65,4 +65,8 @@ void hasilPrima() {
 
 void hasilFibonacci() {
     inputAngka();
+
+    if (cekFibonacci(angka)) {
+        
+    }
 }
