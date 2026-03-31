@@ -85,6 +85,9 @@ int main() {
             case 2:
                 hasilFibonacci();
                 break;
+                case 0:
+                cout << "Program selesai. Terima kasih.\n";
+                break;
         }
     }
 }
