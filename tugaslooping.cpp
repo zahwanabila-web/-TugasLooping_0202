@@ -30,3 +30,12 @@ bool cekPrima(int n) {
         }
         i++;
 }
+
+ return true;
+}
+
+bool cekFibonacci(int n) {
+     if (n < 0){
+        return false;
+     }
+}
