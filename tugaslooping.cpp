@@ -75,6 +75,7 @@ void hasilFibonacci() {
 
 int main() {
     while (true) {
-        
+        tampilkanMenu();
+        cin >> pilihan;
     }
 }
