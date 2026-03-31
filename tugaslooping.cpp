@@ -67,6 +67,6 @@ void hasilFibonacci() {
     inputAngka();
 
     if (cekFibonacci(angka)) {
-        
+        cout << angka << " termasuk bilangan Fibonacci.\n";
     }
 }
