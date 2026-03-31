@@ -64,5 +64,5 @@ void hasilPrima() {
 }
 
 void hasilFibonacci() {
-    
+    inputAngka();
 }
