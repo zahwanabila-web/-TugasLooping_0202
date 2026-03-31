@@ -45,5 +45,20 @@ bool cekFibonacci(int n) {
         if (a == n) {
               return true;
         }
+        c = a + b;
+        a = b;
+        b = c;
+    }
+
+     return false;
+}
+
+void hasilPrima() {
+     inputAngka();
+
+    if (cekPrima(angka)) {
+        cout << angka << " adalah bilangan prima.\n";
+    }else{
+        
     }
 }
