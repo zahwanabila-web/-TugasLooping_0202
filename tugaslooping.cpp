@@ -74,5 +74,7 @@ void hasilFibonacci() {
 }
 
 int main() {
-    
+    while (true) {
+        
+    }
 }
